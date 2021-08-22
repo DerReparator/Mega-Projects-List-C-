@@ -1,0 +1,14 @@
+D:\Dokumente\Mega-Projects-List-C-sharp\Tutorial\LinkedInLearningKurs\obj\HelloWorld\netcoreapp3.1\LinkedInLearningKurs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumente\Mega-Projects-List-C-sharp\Tutorial\LinkedInLearningKurs\obj\HelloWorld\netcoreapp3.1\LinkedInLearningKurs.AssemblyInfoInputs.cache
+D:\Dokumente\Mega-Projects-List-C-sharp\Tutorial\LinkedInLearningKurs\obj\HelloWorld\netcoreapp3.1\LinkedInLearningKurs.AssemblyInfo.cs
+D:\Dokumente\Mega-Projects-List-C-sharp\Tutorial\LinkedInLearningKurs\obj\HelloWorld\netcoreapp3.1\LinkedInLearningKurs.csproj.CoreCompileInputs.cache
+D:\Dokumente\Mega-Projects-List-C-sharp\Tutorial\LinkedInLearningKurs\obj\HelloWorld\netcoreapp3.1\LinkedInLearningKurs.csproj.AssemblyReference.cache
+D:\Dokumente\Mega-Projects-List-C-sharp\Tutorial\LinkedInLearningKurs\bin\HelloWorld\netcoreapp3.1\LinkedInLearningKurs.exe
+D:\Dokumente\Mega-Projects-List-C-sharp\Tutorial\LinkedInLearningKurs\bin\HelloWorld\netcoreapp3.1\LinkedInLearningKurs.deps.json
+D:\Dokumente\Mega-Projects-List-C-sharp\Tutorial\LinkedInLearningKurs\bin\HelloWorld\netcoreapp3.1\LinkedInLearningKurs.runtimeconfig.json
+D:\Dokumente\Mega-Projects-List-C-sharp\Tutorial\LinkedInLearningKurs\bin\HelloWorld\netcoreapp3.1\LinkedInLearningKurs.runtimeconfig.dev.json
+D:\Dokumente\Mega-Projects-List-C-sharp\Tutorial\LinkedInLearningKurs\bin\HelloWorld\netcoreapp3.1\LinkedInLearningKurs.dll
+D:\Dokumente\Mega-Projects-List-C-sharp\Tutorial\LinkedInLearningKurs\bin\HelloWorld\netcoreapp3.1\LinkedInLearningKurs.pdb
+D:\Dokumente\Mega-Projects-List-C-sharp\Tutorial\LinkedInLearningKurs\obj\HelloWorld\netcoreapp3.1\LinkedInLearningKurs.dll
+D:\Dokumente\Mega-Projects-List-C-sharp\Tutorial\LinkedInLearningKurs\obj\HelloWorld\netcoreapp3.1\LinkedInLearningKurs.pdb
+D:\Dokumente\Mega-Projects-List-C-sharp\Tutorial\LinkedInLearningKurs\obj\HelloWorld\netcoreapp3.1\LinkedInLearningKurs.genruntimeconfig.cache

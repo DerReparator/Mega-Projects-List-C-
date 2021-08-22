@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LinkedInLearningKurs": {
+      "commandName": "Project"
+    },
+    "LI_HelloWorld": {
+      "commandName": "Project"
+    }
+  }
+}

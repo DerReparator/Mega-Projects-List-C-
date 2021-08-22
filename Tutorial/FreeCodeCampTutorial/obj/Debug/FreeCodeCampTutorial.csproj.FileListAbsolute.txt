@@ -1,0 +1,7 @@
+D:\Dokumente\Mega-Projects-List-C-sharp\Tutorial\FreeCodeCampTutorial\bin\Debug\FreeCodeCampTutorial.exe.config
+D:\Dokumente\Mega-Projects-List-C-sharp\Tutorial\FreeCodeCampTutorial\bin\Debug\FreeCodeCampTutorial.exe
+D:\Dokumente\Mega-Projects-List-C-sharp\Tutorial\FreeCodeCampTutorial\bin\Debug\FreeCodeCampTutorial.pdb
+D:\Dokumente\Mega-Projects-List-C-sharp\Tutorial\FreeCodeCampTutorial\obj\Debug\FreeCodeCampTutorial.csproj.AssemblyReference.cache
+D:\Dokumente\Mega-Projects-List-C-sharp\Tutorial\FreeCodeCampTutorial\obj\Debug\FreeCodeCampTutorial.csproj.CoreCompileInputs.cache
+D:\Dokumente\Mega-Projects-List-C-sharp\Tutorial\FreeCodeCampTutorial\obj\Debug\FreeCodeCampTutorial.exe
+D:\Dokumente\Mega-Projects-List-C-sharp\Tutorial\FreeCodeCampTutorial\obj\Debug\FreeCodeCampTutorial.pdb
